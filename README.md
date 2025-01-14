@@ -1,0 +1,1 @@
+This repository contains examples demonstrating an uncommon error in Perl related to the use of the qq operator for string interpolation. The `bug.pl` file shows an example of how embedded double quotes can lead to unexpected behavior if not escaped properly, while the `bugSolution.pl` file provides a solution to avoid the error. 
